@@ -1,0 +1,14 @@
+C:\Users\BOTHA\source\repos\TextRogue\bin\Debug\net8.0\TextRogue.exe
+C:\Users\BOTHA\source\repos\TextRogue\bin\Debug\net8.0\TextRogue.deps.json
+C:\Users\BOTHA\source\repos\TextRogue\bin\Debug\net8.0\TextRogue.runtimeconfig.json
+C:\Users\BOTHA\source\repos\TextRogue\bin\Debug\net8.0\TextRogue.dll
+C:\Users\BOTHA\source\repos\TextRogue\bin\Debug\net8.0\TextRogue.pdb
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.AssemblyInfoInputs.cache
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.AssemblyInfo.cs
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.csproj.CoreCompileInputs.cache
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.dll
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\refint\TextRogue.dll
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.pdb
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\TextRogue.genruntimeconfig.cache
+C:\Users\BOTHA\source\repos\TextRogue\obj\Debug\net8.0\ref\TextRogue.dll
